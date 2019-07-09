@@ -1,0 +1,30 @@
+﻿  AnimationSystem.cpp
+  CameraSystem.cpp
+d:\andreapepsii\master year 2018-2019\master\animation ii\mvdcinematics-master\engine\src\camerasystem.cpp(135): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\andreapepsii\master year 2018-2019\master\animation ii\mvdcinematics-master\engine\src\camerasystem.cpp(165): error C2039: 'end': is not a member of 'ViewTrack'
+  d:\andreapepsii\master year 2018-2019\master\animation ii\mvdcinematics-master\engine\src\components.h(125): note: see declaration of 'ViewTrack'
+d:\andreapepsii\master year 2018-2019\master\animation ii\mvdcinematics-master\engine\src\camerasystem.cpp(184): error C2664: 'T &EntityComponentStore::getComponentFromEntity<ViewTrack>(std::string)': cannot convert argument 1 from '_Ty' to 'int'
+          with
+          [
+              T=ViewTrack
+          ]
+          and
+          [
+              _Ty=ViewTrack
+          ]
+  d:\andreapepsii\master year 2018-2019\master\animation ii\mvdcinematics-master\engine\src\camerasystem.cpp(184): note: No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+d:\andreapepsii\master year 2018-2019\master\animation ii\mvdcinematics-master\engine\src\camerasystem.cpp(184): error C2530: 'prevTrack': references must be initialized
+  CollisionSystem.cpp
+  ControlSystem.cpp
+  DebugSystem.cpp
+d:\andreapepsii\master year 2018-2019\master\animation ii\mvdcinematics-master\engine\src\debugsystem.cpp(74): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+d:\andreapepsii\master year 2018-2019\master\animation ii\mvdcinematics-master\engine\src\debugsystem.cpp(78): warning C4267: '=': conversion from 'size_t' to 'GLuint', possible loss of data
+  GUISystem.cpp
+  Game.cpp
+  GraphicsSystem.cpp
+  GraphicsUtilities.cpp
+  Parsers.cpp
+  ScriptSystem.cpp
+  ViewTrack.cpp
+  main.cpp
+  Generating Code...

@@ -1,0 +1,8 @@
+﻿  CameraSystem.cpp
+d:\andreapepsii\master year 2018-2019\master\animation ii\mvdcinematics-master\engine\src\camerasystem.cpp(138): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  1 of 4806 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  20-BasicAnimation.vcxproj -> D:\Andreapepsii\Master Year 2018-2019\Master\Animation II\MVDCinematics-master\Engine\visual_studio\..\20-BasicAnimation.exe
